@@ -1,0 +1,11 @@
+---
+na:
+  label: "n/a"
+l:
+  label: low
+m:
+  label: medium
+h:
+  label: high
+i:
+  label: insane

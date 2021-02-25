@@ -1,0 +1,81 @@
+# vvmlist pool update - 20.02.2021 #
+##vvm count: 218
+
+		> pwklabs updated
+		> hackmyvm updated
+
+###################################################################################################
+# todo #
+			-tag revamp (multi-value tags should be seperated)
+			-paths (beginner, oscp, but what for middle-tier?)
+			-add walkthroughs (thank you andrea)
+			-difficulty and platform tags are not marking selection like main tags
+			 (it's because of script)
+###################################################################################################
+# vvmlist update - 19.02.2021 #
+##vvm count: 201
+
+		> cosmetic changes
+		  url buttons are now visually pleasuring
+		  back to top button added
+
+# vvmlist update - 15.02.2021 #
+##vvm count: 201
+
+		> light mode added
+
+# vvmlist update - 30.01.2021 #
+##vvm count: 200
+
+		> css update
+		  cosmetic changes
+		
+		> small corrections and improvements
+
+# vvmlist update - 19.01.2021 #
+##vvm count: 200
+
+		> font updated
+		  found that i totally forgot testing out of windows systems
+		  segoe ui font stays and it's included in local files
+
+# vvmlist pool update - 16.01.2021 #
+##vvm count: 200
+
+		> vvmlist now has 200 vulnerable vms
+		  200th vm is driftingblues3 and it's made by me
+		  i highly recommend that machine to beginners
+ 
+# vvmlist update - 15.01.2021 #
+##vvm count: 195
+
+		> difficulty and platform filter added
+
+		> you can now jump to another tag from filtered results
+		  sharp-edged small tags wasn't working before
+		  but now, they're acting like main tag filter
+		  
+		> all vms updated for matching new filters		
+
+# vvmlist update - 14.01.2021 #
+##vvm count: 195
+		
+		# db is complete for now since i added all vms that i solved. (excluding active ones)
+		  it means i have free time for assetto corsa and hackmyvm.eu machines
+		  
+		> htbvip pool updated
+			no more htbvip until i get vip subscription and solve retired machines
+		
+		> new tags added
+		
+		> htb pool removed
+			"passage" from htb pool removed since it's an active machine. (for not spoiling)
+				
+		> css updated
+			width increased from 800px to 1000px
+			vm name sections now has fixed width
+			link hover color changed from yucky purple to yummy green (thank you andrea)
+			..and other small corrections
+
+# vvmlist 0.1 beta release - 13.01.2021 #
+##vvm count: 145

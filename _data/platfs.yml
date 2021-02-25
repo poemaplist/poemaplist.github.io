@@ -1,0 +1,9 @@
+---
+good:
+  label: good layout
+ok:
+  label: ok layout
+skip:
+  label: skip
+bad:
+  label: bad map
