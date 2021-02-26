@@ -6,9 +6,9 @@ platfs:
   ok:
     -
 curls:
-  wark:
+  lexp:
     -
 functions:
-  wark:
+  lexp:
     -
 ---

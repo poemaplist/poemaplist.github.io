@@ -11,5 +11,7 @@ platfs:
 curls:
   glenn:
     -
-
+functions:
+  glenn:
+    -
 ---

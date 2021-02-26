@@ -11,5 +11,7 @@ platfs:
 curls:
   wark:
     -
-
+functions:
+  wark:
+    -
 ---

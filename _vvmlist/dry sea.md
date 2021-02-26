@@ -11,5 +11,7 @@ platfs:
 curls:
   valdo:
     -
-
+functions:
+  valdo:
+    -
 ---

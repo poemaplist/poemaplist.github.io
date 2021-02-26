@@ -11,5 +11,7 @@ platfs:
 curls:
   lexe:
     -
-
+functions:
+  lexe:
+    -
 ---

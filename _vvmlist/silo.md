@@ -11,5 +11,7 @@ platfs:
 curls:
   tirn:
     -
-
+functions:
+  tirn:
+    -
 ---
