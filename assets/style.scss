@@ -37,8 +37,21 @@ $accent: #c8c8c8;
 //
 //#bin-table > tbody:nth-child(2) > tr > td:nth-child(4) > ul:nth-child(1) > li:nth-child(2),
 //#bin-table > tbody:nth-child(2) > tr > td:nth-child(4) > ul:nth-child(1) > li:nth-child(3) {
-#bin-table > tbody:nth-child(2) > tr:nth-child(4) > td:nth-child(4) > ul:nth-child(1) > li:nth-child(1) {
+#bin-table > tbody:nth-child(2) > tr > td:nth-child(4) > ul:nth-child(1) > li:nth-child(1) {
 	display: none;
+	}
+	
+a.bad.layout {
+	color: #990000;
+	}
+a.good.layout {
+	color: #00CC03;
+	}
+a.ok.layout {
+	color: #E5C500;
+	}
+a.skip {
+	color: #858585;
 	}
 	
 .bttop {
