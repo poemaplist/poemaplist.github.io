@@ -1,6 +1,6 @@
 ---
 layout: page
-title: vvmlist
+title: poemaplist
 ---
 
 {% include vvm-index.html %}
