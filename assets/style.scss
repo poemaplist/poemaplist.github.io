@@ -37,8 +37,9 @@ $accent: #c8c8c8;
 //
 //#bin-table > tbody:nth-child(2) > tr > td:nth-child(4) > ul:nth-child(1) > li:nth-child(2),
 //#bin-table > tbody:nth-child(2) > tr > td:nth-child(4) > ul:nth-child(1) > li:nth-child(3) {
-//	display: none;
-//	}
+#bin-table > tbody:nth-child(2) > tr:nth-child(4) > td:nth-child(4) > ul:nth-child(1) > li:nth-child(1) {
+	display: none;
+	}
 	
 .bttop {
 	text-decoration: none;
@@ -106,8 +107,8 @@ $layout-break: "(min-width: #{$column-width + $grace-space})";
 .logoi {
     $margin: 20px;
     float: right;
-    width: 80px;
-    height: 80px;
+    width: 100px;
+    height: 100px;
     margin-left: $margin;
     margin-bottom: $margin;
 }
