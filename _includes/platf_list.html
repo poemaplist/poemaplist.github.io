@@ -4,6 +4,6 @@
     {% assign platf = platf_pair[1] %}
     {% unless include.bin.platfs[platf_id] %}{% continue %}{% endunless %}
     <!-- <li><a>{{ platf.label }}</a></li> -->
-	<li><a href="#+{{ platf.label}}">{{ platf.label }}</a></li>
+	<li><a class="{{ platf.label}}" href="#+{{ platf.label}}">{{ platf.label }}</a></li>
     {% endfor %}
 </ul>
