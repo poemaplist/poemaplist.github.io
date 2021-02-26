@@ -2,18 +2,18 @@
 curlna:
   label: <a class="newicon" href="https://www.offensive-security.com/pwk-oscp/"><img src="assets/offsec.png"></a>
 "wark":
-  label: haewark hamlet
+  label: <img src="assets/1.png">haewark hamlet
 "tirn":
-  label: tirns end
+  label: <img src="assets/2.png">tirns end
 "lexp":
-  label: lex proxima
+  label: <img src="assets/3.png">lex proxima
 "lexe":
-  label: lex ejoris
+  label: <img src="assets/4.png">lex ejoris
 "glenn":
-  label: glennach cairns
+  label: <img src="assets/6.png">glennach cairns
 "new":
-  label: new vastir
+  label: <img src="assets/5.png">new vastir
 "valdo":
-  label: valdos rest
+  label: <img src="assets/7.png">valdos rest
 "lira":
-  label: lira arthain
+  label: <img src="assets/8.png">lira arthain
