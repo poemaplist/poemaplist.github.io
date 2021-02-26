@@ -6,4 +6,4 @@ ok:
 skip:
   label: skip
 bad:
-  label: bad map
+  label: bad layout

@@ -1,18 +1,26 @@
 --- 
 #wark:haewark hamlet tirn:tirns end lexp:lex proxima lexe:lex ejoris glenn:glennach cairns new:new vastir valdo:valdos rest lira:lira arthain
-"wark":
+wark:
   label: jun
-"tirn":
-  label: tirns end
-"lexp":
+tirn:
+  label: delirium
+lexp:
   label: breach
-"lexe":
+lexe:
   label: perandus
-"glenn":
+glenn:
   label: strongbox
-"new":
+new:
   label: new vastir
-"valdo":
+valdo:
   label: harbinger
-"lira":
+lira:
   label: lira arthain
+good:
+  label: good layout
+bad:
+  label: bad layout
+ok:
+  label: ok layout
+skip:
+  label: skip
