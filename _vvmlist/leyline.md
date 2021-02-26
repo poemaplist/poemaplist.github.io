@@ -12,6 +12,8 @@ curls:
   wark:
     -
 functions:
+  bad:
+    -
   wark:
     -
 ---

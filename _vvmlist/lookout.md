@@ -12,6 +12,8 @@ curls:
   lira:
     -
 functions:
+  good:
+    -
   lira:
     -
 ---

@@ -12,6 +12,8 @@ curls:
   tirn:
     -
 functions:
+  good:
+    -
   tirn:
     -
 ---

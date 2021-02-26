@@ -12,6 +12,8 @@ curls:
   valdo:
     -
 functions:
+  good:
+    -
   valdo:
     -
 ---

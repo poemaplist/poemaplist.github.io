@@ -12,6 +12,8 @@ curls:
   new:
     -
 functions:
+  good:
+    -
   new:
     -
 ---

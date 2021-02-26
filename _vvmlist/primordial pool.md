@@ -12,6 +12,8 @@ curls:
   lexe:
     -
 functions:
+  good:
+    -
   lexe:
     -
 ---

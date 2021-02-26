@@ -12,6 +12,8 @@ curls:
   glenn:
     -
 functions:
+  ok:
+    -
   glenn:
     -
 ---

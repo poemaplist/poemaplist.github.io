@@ -12,6 +12,8 @@ curls:
   lexp:
     -
 functions:
+  bad:
+    -
   lexp:
     -
 ---
