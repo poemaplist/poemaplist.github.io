@@ -3,7 +3,7 @@ diffis:
   l:
     -
 platfs:
-  ok:
+  :
     -
 curls:
   lexp:
