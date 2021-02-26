@@ -1,4 +1,13 @@
 ---
+good:
+  label: good layout
+bad:
+  label: bad layout
+ok:
+  label: ok layout
+skip:
+  label: skip
+############################
 wark:
   label: jun
 tirn:
@@ -15,11 +24,3 @@ valdo:
   label: harbinger
 lira:
   label: lira arthain
-good:
-  label: good layout
-bad:
-  label: bad layout
-ok:
-  label: ok layout
-skip:
-  label: skip
