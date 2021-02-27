@@ -13,7 +13,7 @@ wark:
 tirn:
   label: delirium
 lexp:
-  label: breach: aoe+mob+exp+boss+stone
+  label: "breach: aoe+mob+exp+boss+stone"
 lexe:
   label: perandus
 glenn:
