@@ -13,7 +13,7 @@ wark:
 tirn:
   label: delirium
 lexp:
-  label: breach
+  label: breach: aoe+mob+exp+boss+stone
 lexe:
   label: perandus
 glenn:
@@ -23,4 +23,4 @@ new:
 valdo:
   label: harbinger
 lira:
-  label: lira arthain
+  label: breach
