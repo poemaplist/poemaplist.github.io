@@ -3,12 +3,14 @@ diffis:
   l:
     -
 platfs:
-  :
+  bad:
     -
 curls:
   lexp:
     -
 functions:
+  bad:
+    -
   lexp:
     -
 ---
