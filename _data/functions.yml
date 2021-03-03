@@ -8,6 +8,9 @@ ok:
 skip:
   label: skip
 ############################
+rb:
+  label: retardboss
+############################
 wark:
   label: jun
 tirn:
