@@ -16,14 +16,14 @@ wark:
 tirn:
   label: delirium
 lexp:
-  label: "breach: aoe+mob+exp+boss+stone"
+  label: "breach: aoe+mob+exp+boss+stone | harvest"
 lexe:
-  label: perandus
+  label: "perandus | delirium"
 glenn:
-  label: "incursion | strongbox: openable 2nd time_crpt_rare"
+  label: "incursion | strongbox"
 new:
   label: "niko"
 valdo:
-  label: harbinger
+  label: "harbinger | blight"
 lira:
   label: "breach | heist"
