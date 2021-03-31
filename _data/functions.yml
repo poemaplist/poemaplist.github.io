@@ -16,7 +16,7 @@ wark:
 tirn:
   label: delirium
 lexp:
-  label: "breach: aoe+mob+exp+boss+stone | harvest"
+  label: "high breach | harvest"
 lexe:
   label: "perandus | delirium"
 glenn:
@@ -26,4 +26,4 @@ new:
 valdo:
   label: "harbinger | blight"
 lira:
-  label: "breach | heist"
+  label: "low breach | heist"
