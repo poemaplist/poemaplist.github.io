@@ -1,7 +1,7 @@
 ---
 #l low m medium h high i insane
 diffis:
-  lh:
+  l:
     -
 #good:good layout ok:ok layout skip:skip
 platfs:
