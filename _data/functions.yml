@@ -16,14 +16,14 @@ wark:
 tirn:
   label: delirium
 lexp:
-  label: "high breach | harvest"
+  label: "t1 breach"
 lexe:
   label: "perandus | delirium"
 glenn:
-  label: "incursion | strongbox"
+  label: "t1 incursion"
 new:
-  label: "niko"
+  label: "t1 legion"
 valdo:
-  label: "harbinger | blight"
+  label: "t1 harbinger"
 lira:
-  label: "low breach | heist"
+  label: "t2 breach | heist"
